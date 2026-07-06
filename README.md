@@ -1,6 +1,6 @@
 🧠 MACHINE LEARNING ENGINEERING PORTFOLIO
 
-👤 Victor Adrián Martínez Lizarzo
+👤 Victor Adrián Martínez Lizarazo
 
 Machine Learning Engineer | Data Scientist | AI & NLP Specialist
 
