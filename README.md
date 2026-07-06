@@ -1,4 +1,5 @@
 🧠 MACHINE LEARNING ENGINEERING PORTFOLIO
+
 👤 Victor Adrián Martínez Lizarzo
 
 Machine Learning Engineer | Data Scientist | AI & NLP Specialist
@@ -10,31 +11,59 @@ This repository contains end-to-end Machine Learning projects focused on real-wo
 Projects include:
 
 Supervised Machine Learning (classification & prediction)
+
 Fraud detection systems
+
 NLP with embeddings
+
 Customer & medical segmentation
+
 Data pipelines and feature engineering
+
+
 🧠 Skills Demonstrated
+
 Machine Learning
+
 Classification
+
 Clustering
+
 Predictive Modeling
+
 Model Evaluation
+
 AI / NLP
+
 Embeddings
+
 Natural Language Processing
+
 Semantic Search
+
 Data Engineering
+
 ETL Pipelines
+
 Feature Engineering
+
 Data Cleaning
+
 Tools
+
 Python
+
 Scikit-learn
+
 Pandas
+
 NumPy
+
 XGBoost
+
+
 📂 Projects
+
 1. Medical Classification System (Healthcare AI)
 
 Machine Learning model for classification of medical entities and segmentation.
