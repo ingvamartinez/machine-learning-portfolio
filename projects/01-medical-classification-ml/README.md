@@ -1,4 +1,4 @@
-# 🧠 Medical Classification System using Machine Learning
+# 🧠 Medical Intelligence Platform
 
 ## 📌 Project Overview
 This project focuses on building a Machine Learning system to classify medical entities (doctors/patients) and support segmentation for operational and commercial decision-making in healthcare environments.
